@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>xanh &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/mau/xanh/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lethuanan.github.io/MyWordPress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Fri, 01 Oct 2021 03:45:48 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Xiaomi Redmi Note 10 Pro</title>
+		<link>https://lethuanan.github.io/MyWordPress/san-pham/xiaomi-redmi-note-10-pro/</link>
+					<comments>https://lethuanan.github.io/MyWordPress/san-pham/xiaomi-redmi-note-10-pro/#respond</comments>
+		
+		<dc:creator><![CDATA[lethuanan]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 03:03:29 +0000</pubDate>
+				<guid isPermaLink="false">https://lethuanan.github.io/MyWordPress/?post_type=product&#038;p=302</guid>
+
+					<description><![CDATA[<table id="tskt">
+<tbody>
+<tr>
+<th>ích thước màn hình</th>
+<th>6.67 inches</th>
+</tr>
+<tr>
+<th>Công nghệ màn hình</th>
+<th>AMOLED</th>
+</tr>
+<tr>
+<th>Camera sau</th>
+<th>Camera góc rộng: 108 MP, f/1.9, 26mm , 1/1.52", 0.7µm, dual pixel PDAF
+Camera góc siêu rộng: 8 MP, f/2.2, 118˚, 1/4.0", 1.12µm
+Camera macro: 5 MP, f/2.4, AF
+Cảm biến chiều sâu: 2 MP, f/2.4</th>
+</tr>
+<tr>
+<th>Camera trước</th>
+<th>16 MP, f/2.5, 1/3.06", 1.0µm</th>
+</tr>
+<tr>
+<th>Chipset</th>
+<th>Snapdragon 732G (8 nm)</th>
+</tr>
+<tr>
+<th>Dung lượng RAM</th>
+<th>8 GB</th>
+</tr>
+</tbody>
+</table>]]></description>
+										<content:encoded><![CDATA[<h2><strong>Điện thoại Xiaomi Redmi Note 10 Pro &#8211; Thế hệ mới hiện đại</strong></h2>
+<p>Xiaomi là hãng sản xuất điện thoại nổi tiếng được nhiều người dùng ưu tiên và lựa chọn sử dụng. <strong>Redmi Note 10 Pro</strong> là chiếc điện thoại hiện đại được mới được hãng ra mắt với nhiều tính năng và công nghệ hiện đại mang đến sự tiện lợi khi người dùng sử dụng chiếc smartphone này.</p>
+<h3><strong>Thiết kế tinh tế và sang trọng, màn hình Full HD 6.67 inch</strong></h3>
+<p><a href="https://cellphones.com.vn/xiaomi-redmi-note-10.html">Xiaomi Redmi Note 10</a> phiên bản Pro được hãng thiết kế với kích thước vừa vặn với tay người dùng. Hơn thế với thiết kế của thế hệ tinh tế và đầy sang trọng này giúp thu hút mọi ánh nhìn bời cái nhìn đầu tiên.</p>
+<p>Mặt lưng của máy được thiết kế vuốt cong ở hai cạnh tạo được cảm giác mỏng và chắc chắn khi cầm nắm. Góc phải mặt lưng được in tên của nhà sản xuất Xiaomi vừa tạo được điểm nhấn cho sản phẩm vừa đặt ở vị trí người dùng có thể thoải mái trang trí chiếc điện thoại một cách dễ dàng và tiện lợi.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lethuanan.github.io/MyWordPress/san-pham/xiaomi-redmi-note-10-pro/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

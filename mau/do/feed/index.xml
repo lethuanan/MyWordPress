@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>đỏ &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/mau/do/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lethuanan.github.io/MyWordPress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Fri, 01 Oct 2021 03:46:04 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>IPhone 12 Chính Hãng</title>
+		<link>https://lethuanan.github.io/MyWordPress/san-pham/iphone-12-chinh-hang/</link>
+					<comments>https://lethuanan.github.io/MyWordPress/san-pham/iphone-12-chinh-hang/#respond</comments>
+		
+		<dc:creator><![CDATA[lethuanan]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 05:45:07 +0000</pubDate>
+				<guid isPermaLink="false">https://lethuanan.github.io/MyWordPress/?post_type=product&#038;p=281</guid>
+
+					<description><![CDATA[<div class="mCKFRe">
+<div class="xCLrrc">Thương hiệu                                                         <strong>Apple</strong></div>
+<div></div>
+</div>
+<div class="mCKFRe">
+<div class="xCLrrc">Hệ điều hành                                                        iOS</div>
+<div></div>
+</div>
+<div class="mCKFRe">
+<div class="xCLrrc">Kích thước màn hình                                            Kích thước màn hình: 6,1 inch</div>
+<div></div>
+</div>
+<div class="mCKFRe">
+<div class="xCLrrc">Tính năng bảo mật                                                Nhận diện khuôn mặt, Máy quét vân tay</div>
+<div></div>
+</div>
+<div class="mCKFRe">
+<div class="xCLrrc">Tính năng                                                              Điện thoại thông minh, Sạc không dây, 4 dải tần</div>
+<div></div>
+</div>
+<div class="mCKFRe">
+<div class="xCLrrc">Trọng lượn                                                             164 gam</div>
+</div>]]></description>
+										<content:encoded><![CDATA[<p>Mua iPhone 12 chính hãng tại Di Động Mới, trả góp 0%. Máy sử dụng màn hình OLED, 6.1&#8243;, Super Retina XDR. Hỗ trợ hệ điều hành ios 14, sử dụng chip Apple A14 Bionic 6 nhân, RAM 4GB. 2 camera sau, công nghệ 5G, Hỗ trợ 2 sim bao gồm 1 Nano SIM và 1 eSIM, bộ nhớ trong 64GB và không có tùy chọn gắn thêm thẻ nhớ ngoài .</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lethuanan.github.io/MyWordPress/san-pham/iphone-12-chinh-hang/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

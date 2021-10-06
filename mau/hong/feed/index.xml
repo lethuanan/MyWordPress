@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>hồng &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/mau/hong/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lethuanan.github.io/MyWordPress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Fri, 01 Oct 2021 03:45:58 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Tai nghe Bluetooth True Wireless Hydrus TS12BC</title>
+		<link>https://lethuanan.github.io/MyWordPress/san-pham/tai-nghe-bluetooth-true-wireless-hydrus-ts12bc/</link>
+					<comments>https://lethuanan.github.io/MyWordPress/san-pham/tai-nghe-bluetooth-true-wireless-hydrus-ts12bc/#respond</comments>
+		
+		<dc:creator><![CDATA[lethuanan]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 05:03:15 +0000</pubDate>
+				<guid isPermaLink="false">https://lethuanan.github.io/MyWordPress/?post_type=product&#038;p=324</guid>
+
+					<description><![CDATA[Đặc điểm nổi bật Thiết kế sành điệu, 2 màu trắng &#8211; hồng, nút đệm mềm mại, thích hợp dùng khi đi chơi, đi làm, du lịch,&#8230; Chất lượng âm thanh sống động, bass mạnh mẽ, chân thực. Kết nối Bluetooth chuẩn 5.0 nghe với khoảng cách 10 m. Nghe nhạc trong khoảng 3.5 giờ, hộp sạc 12 giờ, [...]]]></description>
+										<content:encoded><![CDATA[<p class="short-article__title">Đặc điểm nổi bật</p>
+<ul>
+<li>Thiết kế sành điệu, <strong>2 màu trắng &#8211; hồng</strong>,<strong> nút đệm mềm mại,</strong> thích hợp dùng khi đi chơi, đi làm, du lịch,&#8230;</li>
+<li>Chất lượng âm thanh sống động, bass mạnh mẽ, chân thực.</li>
+<li><strong>Kết nối Bluetooth chuẩn 5.0</strong> nghe với khoảng cách 10 m.</li>
+<li><strong>Nghe nhạc trong khoảng 3.5 giờ, hộp sạc 12 giờ, thời gian chờ 200 giờ.</strong></li>
+<li>Nhận/từ chối cuộc gọi, phát/dừng nhạc qua nút nhấn trực quan.</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lethuanan.github.io/MyWordPress/san-pham/tai-nghe-bluetooth-true-wireless-hydrus-ts12bc/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
